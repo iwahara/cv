@@ -27,5 +27,7 @@
 - [Add unsubscribe delete API with parameter by iwahara · Pull Request \#643 · mailgun/mailgun\-php]
 (https://github.com/mailgun/mailgun-php/pull/643https://t.co/RmS34uDmED?amp=1)
 
-[職務経歴書](JobHistory.md)
-[スキルシート](Skill.md)
+# 詳細
+
+- [職務経歴書](JobHistory.md)
+- [スキルシート](Skill.md)
