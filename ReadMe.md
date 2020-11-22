@@ -13,12 +13,14 @@
 ## 業務エリア
 諸事情によりフルリモートでの就業を希望しております。
 
-## 各種SNS等
-|SNS|アカウント|
+## 各種アカウント等
+|サイト|アカウント|
 |------|---------------|
 |Twitter|[@masaki_iwahara](https://twitter.com/masaki_iwahara)|
 |GitHub|[iwahara \(Masaki Iwahara\)](https://github.com/iwahara)|
 |Qiita|[masaki\_iwahara \- Qiita](https://qiita.com/masaki_iwahara)|
+|LAPRAS|[Masaki Iwahara \| LAPRAS Profile](https://lapras.com/public/V7JDDY2)|
+|Wantedly|[岩原 真生 プロフィール \- Wantedly](https://www.wantedly.com/users/18190996)|
 
 ## OSS活動
 - [Add test for sessions view model by iwahara · Pull Request \#548 · DroidKaigi/conference\-app\-2020]
